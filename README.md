@@ -1,8 +1,8 @@
-# DSA Learning Essential
+# TakeUForwardDsa 
 
-## Overview
+## Overview (DSA Learning Essential)
 
-DSA Learning Essential is an interactive web application designed to help beginners learn and track their progress in Data Structures and Algorithms (DSA). This project provides a structured learning path, interactive problem sets, and progress tracking for various DSA topics.
+TakeUForwardDsa is an interactive web application designed to help beginners learn and track their progress in Data Structures and Algorithms (DSA). This project provides a structured learning path, interactive problem sets, and progress tracking for various DSA topics.
 
 ## Features
 
@@ -48,6 +48,10 @@ DSA Learning Essential is an interactive web application designed to help beginn
 1. Browse through different DSA topics on the main page.
 2. Click on a topic to expand and view subtopics.
 3. Mark subtopics as completed using the checkboxes.
+
+## Project is live at:
+
+- https://vercel.com/aviacharya1s-projects/take-u-forward-dsa
 
 
 ## Screenshots
@@ -108,6 +112,6 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 For any queries or suggestions, please open an issue in the GitHub repository.
 
-## Happy learning!
+## Happy Coding....!
 
 
