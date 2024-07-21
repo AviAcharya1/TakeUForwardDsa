@@ -48,8 +48,11 @@ DSA Learning Essential is an interactive web application designed to help beginn
 1. Browse through different DSA topics on the main page.
 2. Click on a topic to expand and view subtopics.
 3. Mark subtopics as completed using the checkboxes.
-4. Access problem sets for each subtopic by clicking the "Show Problems" button.
-5. Use provided resource links for in-depth learning.
+
+
+## Screenshots
+
+![Screenshot](./src/assets/image.png) <br>
 
 ## Contributing
 
@@ -76,9 +79,9 @@ dsa-learning-essential/
 │   │   ├── calculateProgress.js
 │   │   └── dsaTrackerList.js
 │   ├── App.jsx
-│   └── index.js
+│   └── main.jsx
 ├── public/
-│   └── index.html
+│   └── tracker.svg
 ├── package.json
 └── README.md
 ```
@@ -91,12 +94,6 @@ This project is configured for deployment on Vercel. Follow these steps to deplo
 2. Sign up for a Vercel account if you haven't already.
 3. Connect your Git repository to Vercel.
 4. Follow the Vercel deployment process, which will automatically detect your React app settings.
-
-## Security
-
-- SSL certificates are automatically provided by Vercel.
-- Helmet is used to set secure HTTP headers.
-- Environment variables are used for sensitive information.
 
 ## License
 
@@ -111,6 +108,6 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 For any queries or suggestions, please open an issue in the GitHub repository.
 
-Happy learning!
+## Happy learning!
 
 
