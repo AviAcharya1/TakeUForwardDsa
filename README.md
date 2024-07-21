@@ -51,10 +51,10 @@ TakeUForwardDsa is an interactive web application designed to help beginners lea
 
 ## Project is live at:
 
-- https://vercel.com/aviacharya1s-projects/take-u-forward-dsa
+- [https://vercel.com/aviacharya1s-projects/take-u-forward-dsa](https://take-u-forward-dsa.vercel.app/)
 
 
-## Screenshots
+## Screenshot
 
 ![Screenshot](./src/assets/image.png) <br>
 
